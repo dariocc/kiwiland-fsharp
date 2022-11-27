@@ -1,7 +1,7 @@
 # Kiwiland Fsharp
 
 An implementation of the [Kiwiland Railroad problem](#kiwiland-problem).
-I solved this for a job interview, first in Java and then I solved it in F# just for the fun of it.
+I solved this for a job interview, first in [Java](https://github.com/dariocc/kiwiland-java) and then I solved it in F# just for the fun of it.
 
 I got the job :).
 
